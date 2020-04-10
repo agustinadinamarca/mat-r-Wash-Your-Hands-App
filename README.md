@@ -5,6 +5,8 @@ This app shows the steps to follow for proper and thorough hand washing to preve
 
 **Programming Language:** mat|r script
 
+**Author:** Agustina Dinamarca (agustinadinamarca@gmail.com)
+
 <img src="Images/img-A.jpg" width="25%" height="25%">
 <img src="Images/img-B.jpg" width="25%" height="25%">
 <img src="Images/img-C.jpg" width="25%" height="25%">
