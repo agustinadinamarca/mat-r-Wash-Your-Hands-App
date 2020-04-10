@@ -1,0 +1,10 @@
+<layout alpha="1" backgroundColor="#FFFFFFFF" fontFamily="Roboto, sans-serif" paddingRight="18" paddingTop="18" paddingBottom="18" paddingLeft="18" name="Paso">
+    <datasource type="Paso" name="paso"/>
+    <navigationBar title="Wash Your Hands" hideBackButton="false">
+        <leftButtons/>
+        <rightButtons/>
+    </navigationBar>
+    <label wpercentage="1" alpha="1" marginTop="0" marginBottom="8" marginLeft="0" marginRight="0" paddingRight="2" paddingTop="2" paddingBottom="2" paddingLeft="2" textColor="#135F8DFF" fontSize="80" textAlignment="center" fontFamily="Roboto-Bold" bind="paso.time"/>
+    <image selfAlignment="center" width="250" height="250" bind="paso.image"/>
+    <video width="1" height="1" bind="paso.video" autoplay="true"/>
+</layout>
