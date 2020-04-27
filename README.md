@@ -5,9 +5,7 @@ This app shows the steps to follow for proper and thorough hand washing to preve
 
 **Programming Language:** mat|r script
 
-**Test App:** download the [mat|r Viewer](http://matrproject.com/docs/eng/viewer-eng/), a tool which allows you visualizing and testing the developed app instantly in compatible platforms. Visualize the app on your phone scanning the following QR code with mat|r Viewer:
-
-<img src="Images/qr-washhands.png" width="20%" height="20%">
+**Test App:** download the [mat|r Viewer](http://matrproject.com/docs/eng/viewer-eng/), a tool which allows you visualizing and testing the developed app instantly in compatible platforms. Visualize the app on your phone scanning the QR code with mat|r Viewer: https://platform.matrproject.com/hub/view/5e74dc001c30f500134be590
 
 **Author:** Agustina Dinamarca (agustinadinamarca@gmail.com)
 
